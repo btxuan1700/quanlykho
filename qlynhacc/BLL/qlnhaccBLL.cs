@@ -95,7 +95,21 @@ namespace qlynhacc.BLL
                 doc.Save(fileName);
             }
         }
+        public Boolean getmancc(sanphamDTO sp)
+        {
+            XmlNode loai = root.SelectSingleNode("ncc[mancc = '" + sp.Mancc1 + "' ]");
+            int cout = 0;
+            if (loai != null)
+            {
+                cout++;
 
+            }
+            if (cout > 0)
+            {
+                return true;
+            }
+            return false;
+        }
         public void HienThi(DataGridView dgv)
         {
             dgv.Rows.Clear();

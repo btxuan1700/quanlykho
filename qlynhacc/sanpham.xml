@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds>
+  <sanpham>
+    <malsp>01</malsp>
+    <masp>msv1</masp>
+    <Mancc>ncc1</Mancc>
+    <tensp>2</tensp>
+    <soluong>34</soluong>
+    <gia>4</gia>
+  </sanpham>
+  <sanpham>
+    <malsp>01</malsp>
+    <masp>msv2</masp>
+    <Mancc>ncc2</Mancc>
+    <tensp>sdhsjh</tensp>
+    <soluong>đứ</soluong>
+    <gia>sds</gia>
+  </sanpham>
+  <sanpham>
+    <malsp>01</malsp>
+    <masp>msv3</masp>
+    <Mancc>ncc1</Mancc>
+    <tensp>shdsh</tensp>
+    <soluong>dhsdh</soluong>
+    <gia>dsd</gia>
+  </sanpham>
+</ds>

@@ -29,15 +29,7 @@ namespace qlynhacc
 
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
+       
 
         private void btnnhapfile_Click(object sender, EventArgs e)
         {
@@ -63,15 +55,7 @@ namespace qlynhacc
             }
         }
 
-        private void txtmancc_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txtsdt_TextChanged(object sender, EventArgs e)
-        {
-
-        }
+       
 
         private void btnthem_Click(object sender, EventArgs e)
         {
@@ -85,7 +69,7 @@ namespace qlynhacc
                 nccDTO.Sdt = txtsdt.Text;
                 nccDTO.Email = txtemail.Text;
 
-                //ghi dl thuc hien
+                //goi bll thuc hien
                 nccBLL.Them(nccDTO);
                 //hienthi len datagrid
                 nccBLL.HienThi(dgv);

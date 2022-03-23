@@ -47,9 +47,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BLL\dangnhapBLL.cs" />
+    <Compile Include="BLL\loaispBLL.cs" />
     <Compile Include="BLL\qlnhaccBLL.cs" />
+    <Compile Include="BLL\sanphamBLL.cs" />
     <Compile Include="DTO\dangnhapDTO.cs" />
+    <Compile Include="DTO\loaispDTO.cs" />
     <Compile Include="DTO\nhaccDTO.cs" />
+    <Compile Include="DTO\sanphamDTO.cs" />
     <Compile Include="formQlncc.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -68,8 +72,20 @@
     <Compile Include="formHome.Designer.cs">
       <DependentUpon>formHome.cs</DependentUpon>
     </Compile>
+    <Compile Include="formsanpham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formsanpham.Designer.cs">
+      <DependentUpon>formsanpham.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="formQlloaisp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formQlloaisp.Designer.cs">
+      <DependentUpon>formQlloaisp.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="formQlncc.resx">
       <DependentUpon>formQlncc.cs</DependentUpon>
     </EmbeddedResource>
@@ -78,6 +94,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="formHome.resx">
       <DependentUpon>formHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formsanpham.resx">
+      <DependentUpon>formsanpham.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -88,6 +107,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="formQlloaisp.resx">
+      <DependentUpon>formQlloaisp.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -103,7 +125,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="dangnhap.xml" />
+    <Content Include="Loaisp.xml" />
     <Content Include="qlnhacc.xml" />
+    <Content Include="sanpham.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

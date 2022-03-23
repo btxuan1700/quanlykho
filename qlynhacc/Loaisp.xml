@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ds>
+	<SP>
+		<maloaisp>01</maloaisp>
+		<tenloaisp>Ban ghe</tenloaisp>
+	</SP>
+	<SP>
+		<maloaisp>02</maloaisp>
+		<tenloaisp>Tu</tenloaisp>
+	</SP>
+	<SP>
+		<maloaisp>03</maloaisp>
+		<tenloaisp>Ke ti vi</tenloaisp>
+	</SP>
+</ds>

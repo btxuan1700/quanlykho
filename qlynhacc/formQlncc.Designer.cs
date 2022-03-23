@@ -59,7 +59,7 @@
             this.txtmancc.Name = "txtmancc";
             this.txtmancc.Size = new System.Drawing.Size(100, 22);
             this.txtmancc.TabIndex = 0;
-            this.txtmancc.TextChanged += new System.EventHandler(this.txtmancc_TextChanged);
+            //this.txtmancc.TextChanged += new System.EventHandler(this.txtmancc_TextChanged);
             // 
             // txttenncc
             // 
@@ -77,7 +77,7 @@
             this.label1.Size = new System.Drawing.Size(109, 16);
             this.label1.TabIndex = 2;
             this.label1.Text = "Ma nha cung cap";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+           // this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -160,7 +160,7 @@
             this.label4.Size = new System.Drawing.Size(48, 16);
             this.label4.TabIndex = 8;
             this.label4.Text = "Dia chi";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
+            //this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // txtsdt
             // 
@@ -169,7 +169,7 @@
             this.txtsdt.Name = "txtsdt";
             this.txtsdt.Size = new System.Drawing.Size(100, 22);
             this.txtsdt.TabIndex = 7;
-            this.txtsdt.TextChanged += new System.EventHandler(this.txtsdt_TextChanged);
+            //this.txtsdt.TextChanged += new System.EventHandler(this.txtsdt_TextChanged);
             // 
             // txtdiachi
             // 
