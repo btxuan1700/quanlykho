@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ds>
+	<taikhoan>
+		<tk>xuan123</tk>
+		<matkhau>123</matkhau>
+	</taikhoan>
+	<taikhoan>
+		<tk>nhingu</tk>
+		<matkhau>123</matkhau>
+	</taikhoan>
+</ds>

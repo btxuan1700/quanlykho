@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\qlynhacc\qlynhacc\obj\Debug\qlynhacc.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\qlynhacc\qlynhacc\obj\Debug\qlynhacc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\qlynhacc\qlynhacc\obj\Debug\qlynhacc.Properties.Resources.resources
+C:\Users\Admin\source\repos\qlynhacc\qlynhacc\obj\Debug\qlynhacc.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\qlynhacc\qlynhacc\obj\Debug\qlynhacc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\qlynhacc\qlynhacc\bin\Debug\qlynhacc.exe.config
+C:\Users\Admin\source\repos\qlynhacc\qlynhacc\bin\Debug\qlynhacc.exe
+C:\Users\Admin\source\repos\qlynhacc\qlynhacc\bin\Debug\qlynhacc.pdb
+C:\Users\Admin\source\repos\qlynhacc\qlynhacc\obj\Debug\qlynhacc.exe
+C:\Users\Admin\source\repos\qlynhacc\qlynhacc\obj\Debug\qlynhacc.pdb
+C:\Users\Admin\source\repos\qlynhacc\qlynhacc\obj\Debug\qlynhacc.formQlncc.resources
+C:\Users\Admin\source\repos\qlynhacc\qlynhacc\obj\Debug\qlynhacc.formDangNhap.resources
+C:\Users\Admin\source\repos\qlynhacc\qlynhacc\obj\Debug\qlynhacc.formHome.resources

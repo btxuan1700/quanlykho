@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds>
+  <ncc>
+    <mancc>ncc1</mancc>
+    <tenncc>Huy Hoang</tenncc>
+    <diachi>Thai Nguyen</diachi>
+    <sdt>0321456987</sdt>
+    <email>huyhoang@gmail.com</email>
+  </ncc>
+  <ncc>
+    <mancc>ncc2</mancc>
+    <tenncc>Huy Hoang</tenncc>
+    <diachi>Thai Nguyen</diachi>
+    <sdt>0321456987</sdt>
+    <email>huyhoang@gmail.com</email>
+  </ncc>
+  <ncc>
+    <mancc>ncc3</mancc>
+    <tenncc>minh chien</tenncc>
+    <diachi>lao cai</diachi>
+    <sdt>023369854</sdt>
+    <email>minhchien@gmail.com</email>
+  </ncc>
+  <ncc>
+    <mancc>ncc4</mancc>
+    <tenncc>hihi</tenncc>
+    <diachi>thai nguyen</diachi>
+    <sdt>03325698</sdt>
+    <email>xuan0107@gmail.com</email>
+  </ncc>
+</ds>
